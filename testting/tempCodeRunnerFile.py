@@ -1,0 +1,10 @@
+age = 20        # Integer literal
+pi = 3.14159    # Float literal
+title = "Applied Mathematics"
+is_active = True
+is_banned = False
+middle_name = None
+scores_literal = [90, 85, 88]        # List literal
+metadata_literal = ("ID", 101)      # Tuple literal
+config_literal = {"theme": "dark"}  # Dict literal
+tags_literal = {"python", "coding"} # Set literal
